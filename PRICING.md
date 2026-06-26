@@ -1,4 +1,4 @@
-💰 **PRICING.md — transcribe‑assistant (USD / EUR)**
+# 💰 **PRICING.md — transcribe‑assistant (USD / EUR)**
 
 ## 🌍 **Currency**
 All prices are available in **USD ($)** and **EUR (€)** for international customers.
