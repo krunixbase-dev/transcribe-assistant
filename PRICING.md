@@ -60,6 +60,8 @@ Contact: **krunixbase@gmail.com**
 
 ---
 
+📦 Pricing Table
+
 | **[Plan](ca://s?q=Pricing_plan_details)** | **Description** | **USD** | **EUR** |
 | --- | --- | --- | --- |
 | **[API – Pay‑as‑you‑go](ca://s?q=API_pay_as_you_go)** | 1,000 minutes of transcription | **$10** | **€9** |
@@ -72,6 +74,8 @@ Contact: **krunixbase@gmail.com**
 | **[PRO Deterministic Engine](ca://s?q=Deterministic_engine_pricing)** | Enterprise/NGO deterministic version | **Custom** | **Custom** |
 
 ---
+
+🧩 Add‑Ons
 
 | **[Add‑On](ca://s?q=Pricing_addons)** | **Description** | **USD** | **EUR** |
 | --- | --- | --- | --- |
