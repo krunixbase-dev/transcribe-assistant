@@ -3,7 +3,10 @@
   <img src="https://img.shields.io/badge/mode-offline%20only-darkgreen" />
   <img src="https://img.shields.io/badge/engine-Faster--Whisper-orange" />
   <img src="https://img.shields.io/badge/latency-~250%20ms-lightgrey" />
+  <img src="https://img.shields.io/badge/license-MIT-yellow" />
+  <img src="https://img.shields.io/badge/status-active-brightgreen" />
 </p>
+
 
 
 # 🎙️ transcribe-assistant
