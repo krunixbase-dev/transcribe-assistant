@@ -60,7 +60,7 @@ Contact: **krunixbase@gmail.com**
 
 ---
 
-📦 Pricing Table
+## 📦 Pricing Table
 
 | **[Plan](ca://s?q=Pricing_plan_details)** | **Description** | **USD** | **EUR** |
 | --- | --- | --- | --- |
@@ -75,7 +75,7 @@ Contact: **krunixbase@gmail.com**
 
 ---
 
-🧩 Add‑Ons
+## 🧩 Add‑Ons
 
 | **[Add‑On](ca://s?q=Pricing_addons)** | **Description** | **USD** | **EUR** |
 | --- | --- | --- | --- |
