@@ -5,6 +5,10 @@
   <img src="https://img.shields.io/badge/latency-~250%20ms-lightgrey" />
   <img src="https://img.shields.io/badge/license-MIT-yellow" />
   <img src="https://img.shields.io/badge/status-active-brightgreen" />
+  <img src="https://img.shields.io/badge/security-offline--first-darkgreen" />
+  <img src="https://img.shields.io/badge/privacy-zero%20telemetry-blueviolet" />
+  <img src="https://img.shields.io/badge/data%20flow-no%20cloud%20APIs-critical" />
+  <img src="https://img.shields.io/badge/audit-ready%20sessions-orange" />
 </p>
 
 
