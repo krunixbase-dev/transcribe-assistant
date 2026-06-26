@@ -17,10 +17,7 @@
 
 - Low-latency (~250 ms) offline speech-to-text engine for real-time transcription.
 
-- [Architecture](ca://s?q=Otworz_ARCHITECTURE_transcribe_assistant)
-- [API](ca://s?q=Otworz_API_transcribe_assistant)
-- [Roadmap](ca://s?q=Otworz_ROADMAP_transcribe_assistant)
-- [Pricing](ca://s?q=Otworz_PRICING_transcribe_assistant)
+- [Architecture](ca://s?q=Otworz_ARCHITECTURE_transcribe_assistant) - [API](ca://s?q=Otworz_API_transcribe_assistant) - [Roadmap](ca://s?q=Otworz_ROADMAP_transcribe_assistant) - [Pricing](ca://s?q=Otworz_PRICING_transcribe_assistant)
 
 ---
 
