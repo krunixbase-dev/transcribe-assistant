@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/language-Python%203.10%2B-blue" />
+  <img src="https://img.shields.io/badge/mode-offline%20only-darkgreen" />
+  <img src="https://img.shields.io/badge/engine-Faster--Whisper-orange" />
+  <img src="https://img.shields.io/badge/latency-~250%20ms-lightgrey" />
+</p>
+
+
 # 🎙️ transcribe-assistant
 Low-latency (~250 ms) offline speech-to-text engine for real-time transcription.
 
