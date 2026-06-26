@@ -1,0 +1,3 @@
+[00:00.00] Hello, this is a sample transcription.
+[00:02.15] The system is working correctly.
+[00:04.80] This is the end of the test session.
