@@ -14,9 +14,9 @@
 
 ---
 
-# 🎙️ transcribe-assistant
+## 📘 Description
 
-low-latency (~250 ms) real-time speech-to-text engine built for automation workflows, assistants, accessibility tools and privacy‑sensitive environments.  
+transcribe-assistant is an offline, low-latency (~250 ms) real-time speech-to-text engine built for automation workflows, assistants, accessibility tools and privacy‑sensitive environments.  
 It uses local Faster‑Whisper inference, provides zero cloud dependencies, supports session recording, modular backend architecture, and includes a deterministic PRO version for compliance‑ready use cases.
 
 ---
