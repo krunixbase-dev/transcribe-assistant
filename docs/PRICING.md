@@ -1,8 +1,7 @@
-# 💰 **PRICING.md — transcribe‑assistant (USD / EUR)**
+# 💰 **PRICING.md — transcribe‑assistant (USD / EUR / PLN)**
 
 ## 🌍 **Currency**
-All prices are available in **USD ($)** and **EUR (€)** for international customers.
-
+All prices are available in **USD ($)** and **EUR (€)** for international customers. PLN is acceptable
 ---
 
 ## 🛰 **API Pricing (SaaS)**
