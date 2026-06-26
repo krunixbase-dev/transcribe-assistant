@@ -1,2 +1,72 @@
-# transcribe-assistant
-transcription live  ~250 ms
+# 🎙️ transcribe-assistant
+Low-latency (~250 ms) offline speech-to-text engine for real-time transcription.
+
+[Architecture](ca://s?q=Otworz_ARCHITECTURE_transcribe_assistant) •
+[API](ca://s?q=Otworz_API_transcribe_assistant) •
+[Roadmap](ca://s?q=Otworz_ROADMAP_transcribe_assistant) •
+[Pricing](ca://s?q=Otworz_PRICING_transcribe_assistant)
+
+---
+
+## 🚀 Overview
+transcribe-assistant is a fast, offline, real-time transcription engine built for:
+
+- automation workflows  
+- assistants and agents  
+- accessibility  
+- offline environments  
+- low-latency speech-to-text  
+
+This is the **public version** (non-deterministic).  
+The **deterministic PRO version** is part of the Krunixbase ecosystem.
+
+---
+
+## ✨ Features
+- ~250 ms latency  
+- offline inference  
+- Faster-Whisper backend  
+- streaming transcription  
+- session recording  
+- export to TXT / JSON  
+- CLI + Python API  
+
+---
+
+## 🏗 Architecture
+See full architecture here:  
+ARCHITECTURE.md
+
+---
+
+## 🛠 Installation
+
+```
+pip install -r requirements.txt
+python main.py
+```
+
+---
+
+## 📡 API
+See API documentation:  
+API.md
+
+---
+
+## 🗺 Roadmap
+See full roadmap:  
+ROADMAP.md
+
+---
+
+## 💰 Pricing
+See pricing model:  
+PRICING.md
+
+---
+
+## 📄 License
+MIT License.
+
+---
