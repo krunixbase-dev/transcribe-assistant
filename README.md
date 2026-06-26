@@ -11,18 +11,13 @@
   <img src="https://img.shields.io/badge/audit-ready%20sessions-orange" />
 </p>
 
-## 📘 Description
-
-transcribe-assistant is an offline, low-latency (~250 ms) real-time speech-to-text engine built for automation workflows, assistants, accessibility tools and privacy‑sensitive environments.  
-It uses local Faster‑Whisper inference, provides zero cloud dependencies, supports session recording, modular backend architecture, and includes a deterministic PRO version for compliance‑ready use cases.
 
 ---
 
 # 🎙️ transcribe-assistant
 
-- Low-latency (~250 ms) offline speech-to-text engine for real-time transcription.
-
-- [Architecture](ca://s?q=Otworz_ARCHITECTURE_transcribe_assistant) - [API](ca://s?q=Otworz_API_transcribe_assistant) - [Roadmap](ca://s?q=Otworz_ROADMAP_transcribe_assistant) - [Pricing](ca://s?q=Otworz_PRICING_transcribe_assistant)
+low-latency (~250 ms) real-time speech-to-text engine built for automation workflows, assistants, accessibility tools and privacy‑sensitive environments.  
+It uses local Faster‑Whisper inference, provides zero cloud dependencies, supports session recording, modular backend architecture, and includes a deterministic PRO version for compliance‑ready use cases.
 
 ---
 
