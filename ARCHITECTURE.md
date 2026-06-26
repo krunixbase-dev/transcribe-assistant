@@ -5,6 +5,7 @@ The engine is built around a low-latency streaming loop using Faster-Whisper.
 
 ## Structure
 
+```
 transcribe-assistant/
  ├── backend/
  │    ├── audio_buffer.py
@@ -15,6 +16,7 @@ transcribe-assistant/
  ├── main.py
  ├── requirements.txt
  └── README.md
+```
 
 ## Pipeline
 
