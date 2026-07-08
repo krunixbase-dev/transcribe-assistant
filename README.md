@@ -1,11 +1,12 @@
 <p align="center">
   <img src="assets/logo/transcribe-assistant-logo.png" width="220" alt="Transcribe Assistant Logo"/>
 </p>
+
 <h1 align="center">transcribe-assistant</h1>
+
 <p align="center">
   Offline • Low‑Latency • Real‑Time • Faster‑Whisper Engine
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/language-Python%203.10%2B-blue" />
@@ -19,6 +20,7 @@
   <img src="https://img.shields.io/badge/data%20flow-no%20cloud%20APIs-critical" />
   <img src="https://img.shields.io/badge/audit-ready%20sessions-orange" />
 </p>
+
 
 ## 📘 Description
 
