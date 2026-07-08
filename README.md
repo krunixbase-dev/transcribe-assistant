@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="assets/logo/transcribe-assistant-logo.png" width="180" alt="transcribe-assistant logo">
+</p>
+
+
+<p align="center">
   <img src="https://img.shields.io/badge/language-Python%203.10%2B-blue" />
   <img src="https://img.shields.io/badge/mode-offline%20only-darkgreen" />
   <img src="https://img.shields.io/badge/engine-Faster--Whisper-orange" />
