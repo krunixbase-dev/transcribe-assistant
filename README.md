@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/logo/transcribe-assistant-logo.png" width="180" alt="transcribe-assistant-logo">
-</p>
+![Transcribe Assistant Logo](assets/logo/transcribe-assistant-logo.png)
 
 
 <p align="center">
