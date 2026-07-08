@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo/transcribe-assistant-logo.png" width="180" alt="transcribe-assistant logo">
+  <img src="assets/logo/transcribe-assistant-logo.png" width="180" alt="transcribe-assistant-logo">
 </p>
 
 
